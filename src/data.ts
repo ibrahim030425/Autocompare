@@ -16,7 +16,7 @@ export const cars:Car[]=[
     "fuelConsumption": 7.2,
     "co2": 165,
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://apruhonice.s3.eu-central-1.amazonaws.com/3c/3ce17257-828e-4621-93ea-a268760d6859.full.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -40,7 +40,7 @@ export const cars:Car[]=[
     "fuelConsumption": 7.4,
     "co2": 170,
     "rating": 4.7,
-    "image": "https://images.unsplash.com/photo-1556189250-72ba954cfc2b?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://media.ed.edmunds-media.com/bmw/x3/2022/oem/2022_bmw_x3_4dr-suv_xdrive30i_fq_oem_6_1600.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -64,7 +64,7 @@ export const cars:Car[]=[
     "fuelConsumption": 7.1,
     "co2": 160,
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://d2blhp03rkvfi4.cloudfront.net/cache/width_916/car/car-331128/photo/2024-audi-q5-57115-1265392613.webp",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -88,7 +88,7 @@ export const cars:Car[]=[
     "fuelConsumption": 6.9,
     "co2": 158,
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://www.motortrend.com/uploads/2024/01/001-2024-Mercedes-Benz-GLC-300-front-view.jpg?format=webp&q=75&w=384&width=384",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -136,7 +136,7 @@ export const cars:Car[]=[
     "fuelConsumption": 5.8,
     "co2": 133,
     "rating": 4.5,
-    "image": "https://images.unsplash.com/photo-1581540222194-0def2dda95b8?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/2024_Toyota_RAV4_2.5_LTD_HEV_in_White_Pearl_Crystal_Shine%2C_front_right%2C_06-09-2024.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -160,7 +160,7 @@ export const cars:Car[]=[
     "fuelConsumption": 7.8,
     "co2": 177,
     "rating": 4.7,
-    "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.carexpert.com.au/resize/1600/-/cms/v1/media/2023-volkswagen-golf-r-car-expert-australia5.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -184,7 +184,7 @@ export const cars:Car[]=[
     "fuelConsumption": 8.9,
     "co2": 202,
     "rating": 4.9,
-    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://luxurywatcher.com/uploads/article/3/4/34117/1721963014300.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -208,7 +208,7 @@ export const cars:Car[]=[
     "fuelConsumption": 0,
     "co2": 0,
     "rating": 4.5,
-    "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://img.sm360.ca/images/inventory/oakville-honda/volvo/xc40/2023/38418843/38418843_07828_5215a6e6a7ed79fd929fc7aa457d917f.jpeg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -280,7 +280,7 @@ export const cars:Car[]=[
     "fuelConsumption": 6.1,
     "co2": 139,
     "rating": 4.6,
-    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://images.carexpert.com.au/resize/1600/-/cms/v1/media/new-mercedes-benz-c-class10.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -304,7 +304,7 @@ export const cars:Car[]=[
     "fuelConsumption": 0,
     "co2": 0,
     "rating": 4.7,
-    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://fastly.clutch.ca/stc-photos/ee4289e3-aa6b-4ffa-87ec-2750fc168075.png?class=small",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -328,7 +328,7 @@ export const cars:Car[]=[
     "fuelConsumption": 4.5,
     "co2": 102,
     "rating": 4.4,
-    "image": "https://images.unsplash.com/photo-1590362891991-f776e747a588?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://www.longotoyota.com/assets/stock/colormatched_01/transparent/1280/cc_2024toc04_01_1280/cc_2024toc042031698_01_1280_040.png?bg-color=FFFFFF&timestamp=0001-01-01T00%3A00%3A00&width=800+800w",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -352,7 +352,7 @@ export const cars:Car[]=[
     "fuelConsumption": 7.1,
     "co2": 162,
     "rating": 4.4,
-    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/2024_Volkswagen_Tiguan_4Motion_SE_R-Line_Black%2C_front_left.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -376,7 +376,7 @@ export const cars:Car[]=[
     "fuelConsumption": 10.4,
     "co2": 238,
     "rating": 5.0,
-    "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://media.ed.edmunds-media.com/porsche/911/2024/oem/2024_porsche_911_coupe_carrera-4_fq_oem_1_1600.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -400,7 +400,7 @@ export const cars:Car[]=[
     "fuelConsumption": 0,
     "co2": 0,
     "rating": 4.7,
-    "image": "https://images.unsplash.com/photo-1551830820-330a71b99659?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://editorial.pxcrush.net/carsales/general/editorial/volvo-ex30-reveal-313318.jpg?height=683&width=1024",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -424,7 +424,7 @@ export const cars:Car[]=[
     "fuelConsumption": 0,
     "co2": 0,
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20240425_0035/full.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -448,7 +448,7 @@ export const cars:Car[]=[
     "fuelConsumption": 0,
     "co2": 0,
     "rating": 4.9,
-    "image": "https://images.unsplash.com/photo-1614200187524-dc4b892acf16?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://drivenmatch-static.s3.amazonaws.com/media/cars/2024/Audi/e-tron_GT_Premium_Plus/Kemora_Gray_Metallic/3f89a9a3124c4019ae9b446522fd68e3.webp",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
@@ -472,7 +472,7 @@ export const cars:Car[]=[
     "fuelConsumption": 6.4,
     "co2": 146,
     "rating": 4.8,
-    "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1200&q=80",
+    "image": "https://www.autoblog.com/.image/w_3840%2Cq_auto%3Agood%2Cc_limit/MjA5MDg5MjQ3MTcyNzY1Mjk2/2024%2520Mercedes-Benz%2520E-Class%2C%2520exclusive%2520images.jpg",
     "features": [
       "Adaptive cruise control",
       "Apple CarPlay",
